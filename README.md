@@ -1,4 +1,4 @@
-# E-Commerce Sales Performance Customer Insights Dashboard PowerBI
+<img width="1150" height="646" alt="PowerBI dashboard" src="https://github.com/user-attachments/assets/4341b333-647c-4d33-ab25-1ffe47235dd0" /># E-Commerce Sales Performance Customer Insights Dashboard PowerBI
 
 
 ## Overview
@@ -114,3 +114,4 @@ Customer Gender Profitability
 ## Dashboard Preview
 
 
+<img width="1014" height="619" alt="EcommerceDashboard" src="" />
