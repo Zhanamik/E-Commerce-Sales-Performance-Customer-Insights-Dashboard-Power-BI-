@@ -1,4 +1,6 @@
 
+# E-Commerce Sales Performance Customer Insights Dashboard PowerBI
+
 ## Overview
 
 This project is a Power BI implementation of my E-Commerce Sales Performance & Customer Insights Dashboard using the same e-commerce sales dataset from 2024–2025.
@@ -113,4 +115,4 @@ Customer Gender Profitability
 
 ## Dashboard Preview 
 
-<img width="1150" height="646" alt="PowerBI dashboard" src="https://github.com/user-attachments/assets/4341b333-647c-4d33-ab25-1ffe47235dd0" /> # E-Commerce Sales Performance Customer Insights Dashboard PowerBI
+<img width="1150" height="646" alt="PowerBI dashboard" src="https://github.com/user-attachments/assets/4341b333-647c-4d33-ab25-1ffe47235dd0" /> 
